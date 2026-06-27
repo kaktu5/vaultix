@@ -1,0 +1,18 @@
+{
+  "pins": {
+    "advisory-db": {
+      "type": "Git",
+      "repository": {
+        "type": "GitHub",
+        "owner": "rustsec",
+        "repo": "advisory-db"
+      },
+      "branch": "main",
+      "submodules": false,
+      "revision": "e69927bf37afb7707575bc95aff6a9ef3f2534fb",
+      "url": "https://github.com/rustsec/advisory-db/archive/e69927bf37afb7707575bc95aff6a9ef3f2534fb.tar.gz",
+      "hash": "sha256-2ROADxDdmTMFV+jbwPbCU33qNZIO+WRcpUXmoQGLTLI="
+    }
+  },
+  "version": 8
+}
